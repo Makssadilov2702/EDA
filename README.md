@@ -1,5 +1,5 @@
 # EDA
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MRtmYoavA4njnjZrq-YEXu56Ob37JNH6)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Makssadilov2702/EDA/blob/main/1_6_EDA.ipynb)
 
 ## 🛠 Technologies Used
 - **Python**
